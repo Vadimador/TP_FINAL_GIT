@@ -1,7 +1,17 @@
+
 header {
     background-color: blue;
 }
 
 h1 {
     color: red;
+}
+
+footer {
+    background-color:orange;
+    color:black;
+}
+
+div {
+    padding: 1em
 }
